@@ -1,0 +1,7 @@
+com/edu0988/lesson3/UserAdapter.java
+ com.edu0988.lesson3.UserAdapter
+ com.edu0988.lesson3.UserAdapter$UserHolder
+com/edu0988/lesson3/BuildConfig.java
+ com.edu0988.lesson3.BuildConfig
+com/edu0988/lesson3/MainActivity.java
+ com.edu0988.lesson3.MainActivity
